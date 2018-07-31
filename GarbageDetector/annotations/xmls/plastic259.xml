@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plastic</folder>
+	<filename>plastic259.jpg</filename>
+	<path>/media/sf_srp/agc/Downloads/dataset-original/dataset-original/plastic/plastic259.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1237</xmin>
+			<ymin>374</ymin>
+			<xmax>3244</xmax>
+			<ymax>2345</ymax>
+		</bndbox>
+	</object>
+</annotation>

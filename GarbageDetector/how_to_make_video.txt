@@ -1,0 +1,4 @@
+1) Install ffmpeg
+2) run below commands in python console
+	- import os
+	- os.system('ffmpeg -framerate 20 -i <PATH_TO_FRAMES>/frame%01d.png -c:v libx264 -vf "fps=10,format=yuv420p" <PATH_TO_VIDEO_INCLUDING_NAME>')
